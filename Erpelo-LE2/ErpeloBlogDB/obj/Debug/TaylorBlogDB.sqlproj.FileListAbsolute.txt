@@ -1,0 +1,6 @@
+C:\Users\James\source\repos\TaylorLE2\TaylorBlogDB\bin\Debug\TaylorBlogDB.dacpac
+C:\Users\James\source\repos\TaylorLE2\TaylorBlogDB\bin\Debug\TaylorBlogDB.dll
+C:\Users\James\source\repos\TaylorLE2\TaylorBlogDB\bin\Debug\TaylorBlogDB.pdb
+C:\Users\James\source\repos\TaylorLE2\TaylorBlogDB\obj\Debug\TaylorBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\James\source\repos\TaylorLE2\TaylorBlogDB\obj\Debug\TaylorBlogDB.dll
+C:\Users\James\source\repos\TaylorLE2\TaylorBlogDB\obj\Debug\TaylorBlogDB.pdb
